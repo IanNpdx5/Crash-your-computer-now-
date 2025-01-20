@@ -1,5 +1,6 @@
 embed {
   position:absolute
-  left:0px
-  top:0px
+  left:-1px
+  top:-1px
+  width = auto
 }
