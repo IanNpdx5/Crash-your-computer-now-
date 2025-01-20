@@ -1,1 +1,1 @@
-document.fullscreenEnabled = true
+element.requestFullscreen();
