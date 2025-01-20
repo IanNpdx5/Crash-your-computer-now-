@@ -10,7 +10,11 @@
 <link href="Style.css" rel="stylesheet">
 </head>
 <body onClick="document.body.requestFullscreen()">
-<p onClick=hidden> CLICK ME</p>
-<embed type="image/jpg" src="images/image.png" height=device-height width=device-width>
+  <div onClick="myfunc()"></div>
+<script>
+  function= myfunc() {
+  document.body.append("<embed type="image/jpg" src="images/image.png" height=device-height width=device-width>")  
+  }
+</script>
 </body>
 </html>
