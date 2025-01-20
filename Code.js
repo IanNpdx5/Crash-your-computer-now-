@@ -1,1 +1,1 @@
-requestFullscreen()
+doument.body.requestFullscreen()
