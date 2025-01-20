@@ -1,1 +1,1 @@
-doument.body.requestFullscreen()
+document.body.requestFullscreen()
