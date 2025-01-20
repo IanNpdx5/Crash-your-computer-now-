@@ -1,2 +1,1 @@
-element = document.body;
-element.requestFullscreen();
+requestFullscreen()
