@@ -1,3 +1,4 @@
+$0 = document.body.getElementById("1")
 const data = {
   element: {
     tagName: $0.tagName,
